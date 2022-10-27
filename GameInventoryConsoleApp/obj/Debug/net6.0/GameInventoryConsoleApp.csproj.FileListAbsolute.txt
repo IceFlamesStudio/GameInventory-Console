@@ -1,0 +1,15 @@
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\bin\Debug\net6.0\GameInventoryConsoleApp.exe
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\bin\Debug\net6.0\GameInventoryConsoleApp.deps.json
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\bin\Debug\net6.0\GameInventoryConsoleApp.runtimeconfig.json
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\bin\Debug\net6.0\GameInventoryConsoleApp.dll
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\bin\Debug\net6.0\GameInventoryConsoleApp.pdb
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\obj\Debug\net6.0\GameInventoryConsoleApp.csproj.AssemblyReference.cache
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\obj\Debug\net6.0\GameInventoryConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\obj\Debug\net6.0\GameInventoryConsoleApp.AssemblyInfoInputs.cache
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\obj\Debug\net6.0\GameInventoryConsoleApp.AssemblyInfo.cs
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\obj\Debug\net6.0\GameInventoryConsoleApp.csproj.CoreCompileInputs.cache
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\obj\Debug\net6.0\GameInventoryConsoleApp.dll
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\obj\Debug\net6.0\refint\GameInventoryConsoleApp.dll
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\obj\Debug\net6.0\GameInventoryConsoleApp.pdb
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\obj\Debug\net6.0\GameInventoryConsoleApp.genruntimeconfig.cache
+D:\Personal\Coding\Github\interviuRelevance\github\GameInventory-Console\GameInventoryConsoleApp\obj\Debug\net6.0\ref\GameInventoryConsoleApp.dll
